@@ -1,0 +1,4 @@
+iso_url: "https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/22.04/ubuntu-22.04.2-live-server-amd64.iso"
+iso_checksum: "sha256:5e38b55d57d94ff029719342357325ed3bda38fa80054f9330dc789cd2d43931"
+timezone: Asia/Shanghai
+dhcp_proxy: true
