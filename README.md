@@ -1,4 +1,4 @@
-# My Homelab
+# pxe_server
 
 **[Features](#features) • [Get Started](#get-started) • [Documentation](https://homelab.khuedoan.com)**
 
@@ -7,8 +7,7 @@
 [![license](https://img.shields.io/github/license/lianghuiyuan/homelab?style=flat-square&logo=gnu&logoColor=white)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![stars](https://img.shields.io/github/stars/lianghuiyuan/homelab?logo=github&logoColor=white&color=gold&style=flat-square)](https://github.com/lianghuiyuan/homelab)
 
-This project utilizes [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code) and [GitOps](https://www.weave.works/technologies/gitops) to automate provisioning, operating, and updating self-hosted services in my homelab.
-It can be used as a highly customizable framework to build your own homelab.
+pxe_server: 通过网络的方式安装Ubuntu 22.04
 
 > **What is a homelab?**
 >
