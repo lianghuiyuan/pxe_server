@@ -1,11 +1,10 @@
 # pxe_server
 
-**[Features](#features) • [Get Started](#get-started) • [Documentation](https://homelab.khuedoan.com)**
+**[Features](#features) • [Get Started](#get-started)**
 
-[![tag](https://img.shields.io/github/v/tag/lianghuiyuan/homelab?style=flat-square&logo=semver&logoColor=white)](https://github.com/lianghuiyuan/homelab/tags)
-[![document](https://img.shields.io/website?label=document&logo=gitbook&logoColor=white&style=flat-square&url=https%3A%2F%2Fhomelab.lianghuiyuan.com)](https://homelab.lianghuiyuan.com)
-[![license](https://img.shields.io/github/license/lianghuiyuan/homelab?style=flat-square&logo=gnu&logoColor=white)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![stars](https://img.shields.io/github/stars/lianghuiyuan/homelab?logo=github&logoColor=white&color=gold&style=flat-square)](https://github.com/lianghuiyuan/homelab)
+[![tag](https://img.shields.io/github/v/tag/lianghuiyuan/pxe_server?style=flat-square&logo=semver&logoColor=white)](https://github.com/lianghuiyuan/pxe_server/tags)
+[![license](https://img.shields.io/github/license/lianghuiyuan/pxe_server?style=flat-square&logo=gnu&logoColor=white)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![stars](https://img.shields.io/github/stars/lianghuiyuan/pxe_server?logo=github&logoColor=white&color=gold&style=flat-square)](https://github.com/lianghuiyuan/pxe_server)
 
 
 > **What is a pxe_server?**
